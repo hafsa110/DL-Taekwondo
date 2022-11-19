@@ -1,0 +1,3 @@
+[1] Aouayeb, S., Desquesnes, X., Emile, B., Mulot, B., Treuillet, S. (2022). Intelligent Video Surveillance for Animal Behavior Monitoring. In ICIAP 2022 Workshops. ICIAP 2022. Lecture Notes in Computer Science, vol 13374.
+
+[2] Nikue Amassah D. , Desquesnes X., Emile B., Treuillet S. (2022), Automatically detecting and tracking goat position by 2D camera imaging and deep learning. In ICPR 2022 Workshop VIAB.
